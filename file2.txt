@@ -1,0 +1,589 @@
+Generation {1}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=22KmGeneration {2}
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=19KmGeneration {3}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=22KmGeneration {4}
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=26KmGeneration {5}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=22KmGeneration {6}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=22KmGeneration {7}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 3, 1, 2, 5]fitness=232.09710144927536 ms distance=19KmGeneration {8}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 3, 1, 2, 5]fitness=232.09710144927536 ms distance=19KmGeneration {9}
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 3, 1, 2, 5]fitness=232.09710144927536 ms distance=19KmGeneration {10}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+
+Best: 322.0804347826087
+
+[4, 3, 1, 2, 5]fitness=232.09710144927536 ms distance=26KmGeneration {11}
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 1, 2, 3, 5]fitness=232.06 ms distance=19KmGeneration {12}
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=24KmGeneration {13}
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=24KmGeneration {14}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=26KmGeneration {15}
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 1, 3, 2, 5]fitness=232.09166666666667 ms distance=24KmGeneration {16}
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 1, 3, 2, 5]fitness=232.09166666666667 ms distance=24KmGeneration {17}
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=24KmGeneration {18}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=24KmGeneration {19}
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09710144927536
+
+[4, 3, 1, 2, 5]fitness=232.09710144927536 ms distance=26KmGeneration {20}
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+
+Best: 232.09710144927536
+
+[4, 1, 2, 3, 5]fitness=232.06 ms distance=12KmGeneration {21}
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+
+Best: 232.09166666666667
+
+[4, 1, 2, 3, 5]fitness=232.06 ms distance=12KmGeneration {22}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09166666666667
+
+[4, 1, 2, 3, 5]fitness=232.06 ms distance=24KmGeneration {23}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+
+Best: 232.09166666666667
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=24KmGeneration {24}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 3, 2, 5] Fitness: 232.09166666666667 Queue: 0 Limit: 45 Distance: 24
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+
+Best: 232.09166666666667
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=17KmGeneration {25}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+
+Best: 232.06
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=12KmGeneration {26}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 232.08499999999998
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=22KmGeneration {27}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=12KmGeneration {28}
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=22KmGeneration {29}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 1, 3, 5] Fitness: 142.07 Queue: 0 Limit: 45 Distance: 17
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 2, 1, 3, 5]fitness=142.07 ms distance=19KmGeneration {30}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=22KmGeneration {31}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=26KmGeneration {32}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=22KmGeneration {33}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 232.08499999999998
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=22KmGeneration {34}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=19KmGeneration {35}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=26KmGeneration {36}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=22KmGeneration {37}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=22KmGeneration {38}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 2, 3, 1, 5]fitness=232.08499999999998 ms distance=19KmGeneration {39}
+[4, 2, 3, 1, 5] Fitness: 232.08499999999998 Queue: 0 Limit: 45 Distance: 22
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 1, 2, 3, 5]fitness=232.06 ms distance=19KmGeneration {40}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 1, 2, 5] Fitness: 232.09710144927536 Queue: 0 Limit: 45 Distance: 26
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 3, 1, 2, 5]fitness=232.09710144927536 ms distance=19KmGeneration {41}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 1, 2, 3, 5] Fitness: 232.06 Queue: 0 Limit: 45 Distance: 12
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 1, 2, 3, 5]fitness=232.06 ms distance=19KmGeneration {42}
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+[4, 3, 2, 1, 5] Fitness: 322.0804347826087 Queue: 0 Limit: 45 Distance: 19
+
+Best: 322.0804347826087
+
+[4, 3, 2, 1, 5]fitness=322.0804347826087 ms distance=19Km
